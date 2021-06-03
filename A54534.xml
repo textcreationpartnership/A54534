@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Petition of divers of His Majesties faithfull subjects, of the true Protestant religion, in the county Palatine of Lancaster presented to His Majestie at York the last of May, by the high sheriffe of that county, and divers other gentlemen of qualitie of qualitie : and subscribed by 64 knights and esquires, 55 divines, 740 gentlemen, and of freeholders and others above 7000 : with His Majesties answer, June 6, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 8KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A54534</idno><idno type="EEBO-CITATION">12655251</idno>
+  <idno type="VID">65338</idno>
+  <idno type="EEBO-PROQUEST">2240957444</idno>
+  
+            <idno type="STC">Wing P1765</idno>
+            <idno type="STC">ESTC R181710</idno>
+            <idno type="OCLC">12655251</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A54534)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 65338)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 252:E150, no 3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Petition of divers of His Majesties faithfull subjects, of the true Protestant religion, in the county Palatine of Lancaster presented to His Majestie at York the last of May, by the high sheriffe of that county, and divers other gentlemen of qualitie of qualitie : and subscribed by 64 knights and esquires, 55 divines, 740 gentlemen, and of freeholders and others above 7000 : with His Majesties answer, June 6, 1642.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Robert Barker ... and by the assignes of John Bill,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Thomason Collection, British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Charles --  I, --  King of England, 1600-1649.</term>
+               <term type="geographic_name">Great Britain --  History --  Charles I, 1625-1649.</term>
+               <term type="geographic_name">Lancashire (England) --  History --  Sources.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:65338:1"/>
+            <pb facs="tcp:65338:1"/>
+            <p>THE PETITION Of divers of His MAJESTIES faithfull Subjects, of the true Pro<g ref="char:EOLhyphen"/>testant Religion, in the County Palatine of <hi>Lancaster:</hi> Presented to His Majestie at <hi>York</hi> the last of May, by the high Sheriffe of that County, and divers other Gentlemen of Qualitie: And subscribed by 64 Knights and Esquires, 55 Divines, 740 Gentlemen, and of Free<g ref="char:EOLhyphen"/>holders and others above 7000.</p>
+            <p>With His Majesties Answer, <hi>June</hi> 6. 1642.</p>
+            <p>LONDON: Printed by ROBERT BARKER, Printer to the Kings most Excellent Majestie: And by the Assignes of JOHN BILL.</p>
+            <p>MDCXLII.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:65338:2"/>
+            <pb n="1" facs="tcp:65338:2"/>
+            <head>¶ To the Sacred MAJESTIE, of our most Gracious Soveraign LORD, CHARLES By the grace of God, of <hi>England, Scotland, France,</hi> and <hi>Ireland</hi> King, Defender of the Faith, &amp;c.</head>
+            <argument>
+               <p>The humble Gratulation and Petition of divers His Majesties faithfull Subjects of the true Protestant Religion, within the County Palatine of <hi>Lancaster.</hi>
+               </p>
+            </argument>
+            <opener>
+               <salute>Most Gracious Soveraign,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>He most reall and convincing Testimonies of Your Princely care, for the advance<g ref="char:EOLhyphen"/>ment of Gods true Religion in Your Ma<g ref="char:EOLhyphen"/>jesties Realms, and the common good of all Your Subjects, could no lesse then draw from us (who have hitherto in these stirring times sat still) this humble acknowledgement of our due and ne<g ref="char:EOLhyphen"/>cessary Thanks.</p>
+            <p>We, with the inmost and choicest thoughts of our souls, do esteem and prize Your Majesties most righteous intentions of governing Your Leige People according to the wholesome Laws of this Kingdom, a thing so of<g ref="char:EOLhyphen"/>ten, and with such earnestnesse avowed by Your Sacred
+<pb n="2" facs="tcp:65338:3"/> Majestie, whereunto we yeeld that heartie credence, which is due to so Religious and Righteous a Prince; We do also with all humility and thankfulnesse, ac<g ref="char:EOLhyphen"/>knowledge Your manifold and evident Manifestations to the world, that You affect not an Arbitrary Govern<g ref="char:EOLhyphen"/>ment, but the common prosperitie and happinesse of all Your loyall Subjects, by Your readinesse to joyn with Your Parliament, in a speedie raising of Forces, for a timely suppression of that odious Rebellion in <hi>Ireland;</hi> by Your late Proclamation, for the putting in due exe<g ref="char:EOLhyphen"/>cution the Laws against Papists; by Your most gracious condescending to the desires of Your great Councell, in signing the Bills for the Trienniall Parliament; for relinquishing Your Title of Imposing upon Merchandize, and Power of pressing Souldiers; for the taking away of the Star-Chamber and High Commission Courts; for the Regulating of the Councell Table; as also the Bills for the Forrests, and Stannarie Courts, with other most necessary Acts: Moreover, we are confident, and well assured of Your Majesties zeal, for the advance<g ref="char:EOLhyphen"/>ment of the true Protestant Religion, and with inexpres<g ref="char:EOLhyphen"/>sible joy do understand Your most Christian and Pious Resolution, for the preservation of those powerfull en<g ref="char:EOLhyphen"/>couragements of Industrie, Learning and Pietie, the Means and Honour of the Ministerie, for the mainte<g ref="char:EOLhyphen"/>nance and continuance of our Church Government, and solemn Liturgie of the Church, of long continued and generall Approbation of the most Pious and Learn<g ref="char:EOLhyphen"/>ed of this Nation, and of other Countries, composed according to the Primitive Patern, by our blessed Mar<g ref="char:EOLhyphen"/>tyrs, and other Religious and Learned men: As also
+<pb n="3" facs="tcp:65338:3"/> Your gracious pleasure, that all abuses of Church and State shall be reformed, according to the modell of Queen <hi>Elizabeths</hi> dayes, of ever blessed and famous memory; By the one, You have weakened the hopes of the sacrilegious Devourers of the Churches Patrimonie; (if there be any such) And by the other, at once pro<g ref="char:EOLhyphen"/>vided against all Popish Impieties and Idolatries, and also against the growing danger of Anabaptists, Brown<g ref="char:EOLhyphen"/>ists, and other Novellists; all which Pietie, Love, and Justice, we beseech God to return into Your Royall Bo<g ref="char:EOLhyphen"/>some. But yet (most Gracious Soveraign) there is one thing that Sads our hearts, and hinders the perfe<g ref="char:EOLhyphen"/>ction of our happinesse, which is, the distance and mis<g ref="char:EOLhyphen"/>understanding between Your Majestie and Your Parlia<g ref="char:EOLhyphen"/>ment, whereby the hearts of Your Subjects are filled with Feares and Jealousies, Justice neglected, Sacred Ordinances prophaned, and Trading impaired, to the impoverishing of many of Your Liege people: For the removall whereof we cannot finde out any lawfull meanes without Your Majesties Assistance and Di<g ref="char:EOLhyphen"/>rection.</p>
+            <div type="part">
+               <p>Wherefore we humbly beseech Your most Excellent Ma<g ref="char:EOLhyphen"/>jestie to continue Your most Christian and Pious resolution of ruling Your People according to the Laws of the Land, and maintaining of the same, of being a Zealous Defender of the established Doctrine, Liturgie, and Government of our Church, from Heresie, Libertinisme, and Prophanenesse, an Advancer of Learning, Pietie and Religion, an Encourager of painfull Orthodox Preachers; And whatsoever Your Parliament shall offer to Your Royall view, conducing to this Blessed end, the Common good, and tranquillitie of Your Subjects, to be plea<g ref="char:EOLhyphen"/>sed to condescend unto, and graciously to confirm: And with<g ref="char:EOLhyphen"/>all
+<pb n="4" facs="tcp:65338:4"/> to declare unto us some expedient way, how we <gap reason="illegible" resp="#keyers" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ay make a dutifull Addresse unto Your Parliament, for the taking away of those Differences and Impediments, which stay the happie proceedings of that most Honourable Assembly, whereof Your Majestie is the Head, (which once removed, we doubt not but You will speedily be as neer Your Parliament in Person, as in affection, that there may be a Blessed harmonie between Your Highnesse and that great Councell) And we shall with all Alacritie observe the same, humbly tendring our Lives and Fortunes for the preservation of Your Royall Person, Crown, and Dignitie, according to our bounden Dutie and Alleagiance; And heartily praying for Your Majesties long and prosperous Reign over us.</p>
+            </div>
+         </div>
+         <div type="response_to_petitioners">
+            <pb n="5" facs="tcp:65338:4"/>
+            <head>At the Court at <hi>York, 6. June.</hi> 1642. His MAJESTIE hath commanded me to give you this His Answer to your Petition.</head>
+            <p>
+               <seg rend="decorInit">T</seg>Hat He is very glad to finde such reall acknowledgements of those great Graces which He hath boun<g ref="char:EOLhyphen"/>tifully bestowed upon this His King<g ref="char:EOLhyphen"/>dom of <hi>England,</hi> in the time of this Parliament, &amp; likewise it is a great contentment to Him to finde so many true Sons of the Church of <hi>England,</hi> as by your expressions in the said Petition doth plainly appear to Him; Assu<g ref="char:EOLhyphen"/>ring you that He shall not yeeld in His Zeal and Constancie for the maintenance of the true Prote<g ref="char:EOLhyphen"/>stant Profession, neither to Queen <hi>Elizabeth,</hi> nor to His Father of ever blessed Memory, both against Popish Superstition on the one side, and Schis<g ref="char:EOLhyphen"/>maticall Innovation and Confusion on the other. In the last place, as He doth take in very good part your desire of a good Vnderstanding between His Majestie and His two Houses of Parliament;
+<pb n="6" facs="tcp:65338:5"/> so likewise, He cannot but much commend the way that you take therein. And as for your Directions, if you will but seriously consider His Majesties just and necessary desires, expressed in His Answers and Declarations since His coming to <hi>York,</hi> your zeal and knowledge will not need more particular Instructions to make such Addresses to both Hou<g ref="char:EOLhyphen"/>ses of Parliament as the times require, and be<g ref="char:EOLhyphen"/>fitting such loyall and true affected Sub<g ref="char:EOLhyphen"/>jects to your King and Countrey, as this Petition expresseth you to be.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
